@@ -12,7 +12,7 @@
 Currently:
   - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
   - Development Lead at Azucar (Healthcare NPO)
-  - Tonsillectomy Simulation with Arduino
+  - CPR Simulation with Arduino
 
 Previously:
   - DevOps Engineer Intern @ Crispr QC
