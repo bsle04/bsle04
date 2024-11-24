@@ -11,7 +11,6 @@
 ###
 Currently:
   - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
-  - Development Lead at Azucar (Healthcare NPO)
   - CPR Simulation with Arduino
 
 Previously:
