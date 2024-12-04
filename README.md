@@ -11,6 +11,7 @@
 ###
 Currently:
   - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
+  - ECG Signal Processing with MATLAB
   - CPR Simulation with Arduino
 
 Previously:
