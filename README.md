@@ -11,14 +11,14 @@
 ###
 Currently:
   - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
-  - ECG Signal Processing with MATLAB
-  - CPR Simulation with Arduino
 
 Previously:
   - DevOps Engineer Intern @ Crispr QC
   - Programming Tutor @ theCoderSchool
   - Sales and Marketing Specialist @ Versili LLC
-  - User Engagement Forecasting Project
+  - ECG Signal Processing w/ MATLAB
+  - CPR Simulation w/ Arduino
+  - User Engagement Forecasting 
 </p>
 
 ###
