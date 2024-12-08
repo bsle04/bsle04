@@ -9,10 +9,10 @@
 <h2 align="left">About me:</h2>
 
 ###
-Currently:
+Current:
   - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
 
-Previously:
+Previous:
   - DevOps Engineer Intern @ Crispr QC
   - Programming Tutor @ theCoderSchool
   - Sales and Marketing Specialist @ Versili LLC
