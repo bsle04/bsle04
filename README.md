@@ -10,15 +10,15 @@
 
 ###
 Current:
-  - Researcher at Sleep, Cognitive Aging and Neurodegeneration Lab
+  - Incoming DevOps Intern @ Panasonic Avionics Corporation
+  - Undergraduate Researcher @ Sleep, Cognitive Aging and Neurodegeneration (SCAN) Lab
+  - Software Engineer @ FUSION ICS Project
+  - Sleep Slow Waves Data Analysis
 
 Previous:
   - DevOps Engineer Intern @ Crispr QC
   - Programming Tutor @ theCoderSchool
-  - Sales and Marketing Specialist @ Versili LLC
-  - ECG Signal Processing w/ MATLAB
-  - CPR Simulation w/ Arduino
-  - User Engagement Forecasting 
+  - Web Administrator @ Versili LLC
 </p>
 
 ###
