@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Brandon Le and I'm a third year Biomedical Engineering undergraduate at UC Irvine.</p>
+<p align="left">Third year Biomedical Engineering major at UCI looking to expand my experience with the right opportunity.</p>
 
 ###
 
