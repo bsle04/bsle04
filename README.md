@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Third year Biomedical Engineering major at UCI looking to expand my experience with the right opportunity.</p>
+<p align="left">Senior engineering major looking to expand my experience with the right opportunity.</p>
 
 ###
 
@@ -10,15 +10,14 @@
 
 ###
 Current:
-  - Incoming DevOps Intern @ Panasonic Avionics Corporation
+  - DevOps Engineer Intern @ Panasonic Avionics Corporation
   - Undergraduate Researcher @ Sleep, Cognitive Aging and Neurodegeneration (SCAN) Lab
-  - Software Engineer @ FUSION ICS Project
   - Sleep Slow Waves Data Analysis
 
 Previous:
   - DevOps Engineer Intern @ Crispr QC
+  - Software Engineer Intern @ Versili
   - Programming Tutor @ theCoderSchool
-  - Web Administrator @ Versili LLC
 </p>
 
 ###
