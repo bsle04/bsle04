@@ -12,7 +12,6 @@
 Current:
   - DevOps Engineer Intern @ Panasonic Avionics Corporation
   - Undergraduate Researcher @ Sleep, Cognitive Aging and Neurodegeneration (SCAN) Lab
-  - Sleep Slow Waves Data Analysis
 
 Previous:
   - DevOps Engineer Intern @ Crispr QC
